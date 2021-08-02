@@ -12,10 +12,10 @@ We needed to change some of the Rscripts used by authors to better suite our mac
 
 > Phase 2: Re-analysis of data using R
 
-All the Rscripts were posted for free re-use by the authors. 
+All the Rscripts were posted for free re-use by the authors.
 
 > Phase 3: Website Construction
 
-We constructed a website which presents the graphs/outcomes of our re-analysis on our slider. The user can compare the results by selecting/choosing which result they want to see and compare with.
+We constructed a website which presents the graphs/outcomes of our re-analysis. The user can compare the results by selecting/choosing which result they want to see and compare with. The results of individual genes can be searched for using our search engine. 
 
 Our website can be found on following this link: https://www406.lamp.le.ac.uk/index.html (You have to login via University of Leicester HPC)
