@@ -1,0 +1,15 @@
+1. First step create github and clone repo
+(copy files into active folder)
+2. Git add -A
+
+3. Git commit -m "Enter your message"
+
+4. Git push (copy paste recommended command)
+
+5. Git checkout -b "new branch name"
+
+6. Git branch (to check active branches)
+
+7a. Git push --set-upstream origin "NAME OF BRANCH"
+
+7b. Repeat 2 - 4 steps
